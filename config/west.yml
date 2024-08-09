@@ -9,8 +9,8 @@ manifest:
           remote: zmkfirmware
           revision: main
           import: app/west.yml
-        # modules
-        - name: zmk-dongle-display
+        # base shield
+        - name: catostyl
           remote: 9u0vad15
           revision: main
     self:

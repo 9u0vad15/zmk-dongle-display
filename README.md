@@ -18,6 +18,7 @@ manifest:
           remote: zmkfirmware
           revision: main
           import: app/west.yml
+        # modules
         - name: zmk-dongle-display
           remote: 9u0vad15
           revision: main
