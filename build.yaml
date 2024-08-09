@@ -1,4 +1,4 @@
 ---
 include:
     - board: nice_nano_v2
-      shield: dongle_display
+      shield: catostyl_dongle dongle_display
