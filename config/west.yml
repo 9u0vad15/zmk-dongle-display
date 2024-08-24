@@ -10,7 +10,7 @@ manifest:
           revision: main
           import: app/west.yml
         # base shield
-        - name: catostyl
+        - name: zmk-config
           remote: 9u0vad15
           revision: main
     self:
