@@ -62,3 +62,7 @@ If you want to use MacOS modifier symbols instead of the Windows modifier symbol
 ```ini
 CONFIG_ZMK_DONGLE_DISPLAY_MAC_MODIFIERS=y
 ```
+
+## References
+
+-   [ZMK Dongle Display](https://github.com/englmaxi/zmk-dongle-display) by englmaxi

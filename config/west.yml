@@ -2,16 +2,10 @@ manifest:
     remotes:
         - name: zmkfirmware
           url-base: https://github.com/zmkfirmware
-        - name: 9u0vad15
-          url-base: https://github.com/9u0vad15
     projects:
         - name: zmk
           remote: zmkfirmware
           revision: main
           import: app/west.yml
-        # base shield
-        - name: zmk-config
-          remote: 9u0vad15
-          revision: main
     self:
         path: config
